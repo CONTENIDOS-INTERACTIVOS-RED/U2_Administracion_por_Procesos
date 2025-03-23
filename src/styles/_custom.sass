@@ -24,6 +24,20 @@
     background-color: #F0E9F6
   &-4
     background-color: #EAF8FD
+  &-5
+    background-color: #FAE8E3
+  &-6
+    background-color: #F7EAD7
+  &-7
+    background-color: #E5E2E7
+  &-8
+    background-color: #CFE3DC
+  &-9
+    background-color: #F9E6C3
+  &-10
+    background-color: #FCF3F0
+  &-11
+    background-color: #E6F1ED
   &-info
     background-color: #E8EEFD
   &-sintesis
@@ -40,21 +54,27 @@
     border-top: 5px solid $color-terciario !important
 
 // Full Width Background
-.bg-full-width
-  background-size: cover
+.bg-full-width, .bg-full-width-2
   background-repeat: no-repeat
   background-position: bottom
   margin-inline: -3.3rem
   @media screen and (max-width: $bp-max-sm)
     padding-left: 1.5rem
     padding-right: 1.5rem
+.bg-full-width
+  background-size: cover
+.bg-full-width-2
+  background-size: contain
 
 .bg-fondo
   &-1
     background-image: url("../assets/bg/bg1.png") !important
     background-position: top
   &-2
-    // background-image: url("../assets/bg/bg2.png") !important
+    background-image: url("../assets/bg/bg2.png") !important
+    background-position: bottom
+  &-3
+    //background-image: url("../assets/bg/bg3.png") !important
     background-position: bottom
   &-slider
     background-image: url("../assets/bg/bg-slider.png") !important
@@ -66,7 +86,7 @@ $custom-card-shadow: 0 4px 8px rgba(0,0,0,0.1)
 $custom-card-text-bg: #FFF
 $custom-card-text-padding: 15px
 $custom-card-text-font-size: 14px
-$custom-card-img-height: 322px
+$custom-card-img-height: 200px
 .custom-image-card
   border-radius: $custom-card-border-radius
   overflow: hidden
@@ -97,15 +117,15 @@ $custom-card-img-height: 322px
 
 
 .acordion__header
-  background-color: lighten($color-acento-contenido, 25%) !important
+  background-color: #FAE8E3 !important
 
 .acordion__header--active
-  background-color: $color-acento-contenido !important
+  background-color: #E89076 !important
   h4, i
     color: #000 !important
 
 .acordion__contenido
-  background-color: lighten($color-acento-contenido, 27%) !important
+  background-color: #F7DDD5 !important
 
 
 .anexo__texto
