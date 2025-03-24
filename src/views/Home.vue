@@ -60,7 +60,7 @@ export default {
 
 <style lang="sass">
 .curso-container
-  background-color: $color-fondo-home
+  background-color: #E6F1ED
   .container
     @media (min-width: 1400px)
       max-width: 1378px
@@ -147,12 +147,12 @@ export default {
 .iniciar-btn-container
   .iniciar-btn-text
     transition: all 0.25s ease-in-out
-    background-color: $color-acento-botones !important
+    background-color: #88BBA9 !important
     color: #0B0A0A !important
   .icon
     transition: all 0.25s ease-in-out
     // background-color: #083E61 !important
-    background-color: darken($color-acento-botones, 30% ) !important
+    background-color: #4A665C !important
   &:hover
     .icon
       transform: scale(1.06)
