@@ -2,7 +2,7 @@
   .curso-main-container.creditos-vista
     BannerInterno(subTitulo="SÍNTESIS")
     .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-      p(data-aos="fade-up").mb-5 La Unidad 3: Bioética y sostenibilidad en el desarrollo económico global, establece los principios esenciales para comprender cómo los valores éticos y bioéticos pueden orientar el desarrollo económico hacia la sostenibilidad. Esta unidad proporciona una perspectiva integral sobre la relación entre la economía, el medio ambiente y los derechos humanos, destacando la importancia de prácticas responsables en contextos globalizados. Este enfoque asegura que los estudiantes adquieran una comprensión sólida de los desafíos éticos actuales y las estrategias sostenibles, permitiéndoles aplicar estas herramientas de manera efectiva en su formación profesional y en la vida cotidiana.
+      p(data-aos="fade-up").mb-5 La Unidad 2: Identificación de modelos de gestión, proporciona los fundamentos esenciales para comprender y aplicar metodologías de gestión orientadas a la optimización de operaciones organizacionales. A lo largo de esta unidad, se abordan aspectos clave como la identificación y clasificación de procesos, el levantamiento de información, el modelamiento de procesos y la implementación de sistemas de mejora continua. Mediante herramientas como el ciclo PHVA, los mapas de procesos y modelos estandarizados como SIPOC y BPMN, los estudiantes desarrollarán habilidades estratégicas para analizar y optimizar flujos de trabajo. Este enfoque permitirá una gestión eficiente de los recursos y contribuirá a la competitividad y sostenibilidad de las organizaciones en entornos dinámicos y cambiantes.
 
       .row.justify-content-center
         .col-lg-12.mb-5
