@@ -1,7 +1,7 @@
 export default {
   global: {
     numeroUnidad: '2',
-    tituloUnidad: 'Teoría de la administración por procesos',
+    tituloUnidad: 'Identificación de modelos de gestión',
   },
   menuPrincipal: {
     menu: [
