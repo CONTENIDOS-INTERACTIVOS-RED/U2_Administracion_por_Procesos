@@ -144,7 +144,8 @@
           .col-lg-auto
             img(src="@/assets/curso/tema1/14.svg", style="max-width: 400px").mx-auto
           .col-lg
-            p.mb-0 Algunas personas identificarán un único proceso general, como la gestión financiera y contable. Otras, en cambio, reconocerán este macroproceso, pero lo desglosarán en varios procesos más específicos, como presupuesto y planificación financiera, gestión de tesorería, contabilidad y cierre financiero, control de costos y análisis financiero.
+            p.mb-0 En organizaciones de gran tamaño, el número de procesos puede ser aún mayor. En estos casos, debido a la complejidad y amplitud de ciertas funciones, puede ser útil subdividir los procesos en otros más específicos, para mejorar la gestión. Por ejemplo, dentro del proceso de gestión de tesorería, una organización con un alto volumen de operaciones, podría decidir desglosarlo en tres subprocesos: gestión de liquidez, administración de pagos y cobros, y control de riesgos financieros. Esta subdivisión permitiría una mejor organización y optimización de cada actividad dentro de la empresa.
+
     
 
     .titulo-figura.mb-4
